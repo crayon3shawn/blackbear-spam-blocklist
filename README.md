@@ -1,4 +1,4 @@
-# BlackBear Spam Blocklist
+# BlockBear Blocklist
 
 這是一個開源的台灣電話號碼黑名單，收錄常見詐騙、騷擾、廣告電話。
 
