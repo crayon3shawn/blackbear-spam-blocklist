@@ -1,5 +1,5 @@
 # -------------------
-# BlackBear Spam Blocklist (for Taiwan)
+# BlockBear Blocklist (for Taiwan)
 # 格式：[phonenumber] [category] [label]
 # 一行一筆，欄位以空白分隔，分類與顯示名稱可省略
 # 最後更新：2025-04-16
